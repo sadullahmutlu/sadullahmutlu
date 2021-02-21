@@ -1,6 +1,6 @@
 ### Hi there I'm Sadullah Mutlu👋 
 
-🔭 I’m currently working on Data Science :D
+🔭 I’m currently working on Data Science
 
 🌱 I’m currently learning Python and Machine Learning
 
