@@ -1,12 +1,12 @@
-### Hi there I'm Sadullah Mutlu👋 
+#### Hi there I'm Sadullah Mutlu👋 
 
-🔭 I’m currently working on Data Science
+* 🔭 I’m currently working on **Data Science**
 
-🌱 I’m currently learning Python and Machine Learning
+* 🌱 I’m currently learning **Python** and **Machine Learning**
 
 Stand by, a little :)
 
-Çalışmanızın karşılığını mutlaka bir gün alırsınız.
+**Çalışmanızın karşılığını mutlaka bir gün alırsınız.**
 
 <!--
 **sadullahmutlu/sadullahmutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
