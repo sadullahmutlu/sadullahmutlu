@@ -19,8 +19,7 @@
 <a href="https://twitter.com/sadullahmutlu"><img src="https://img.shields.io/badge/Sadullah Mutlu-1da1f2?style=flat&logo=Twitter&logoColor=black"/></a>
 <a href="mailto:sadullahmutlu760@gmail.com"><img src="https://img.shields.io/badge/-sadullahmutlu760@gmail.com-D14836?style=flat&logo=Gmail&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/sadullahmutlu"><img src="https://img.shields.io/badge/Sadullah Mutlu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-
+<a href="https://www.reddit.com/user/Sadullahmutluu"><img src="https://img.shields.io/reddit/Sadullah%20Mutlu?color=orange&logo=Reddit&logoColor=orange"/></a>
 </p>
 
 
