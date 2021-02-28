@@ -3,7 +3,7 @@
 * 🔭 I’m currently working on **Data Science**
 * 🌱 I’m currently learning **Python** and **Machine Learning**
 
-#### ⚙️ &nbsp;GitHub Analytics foo <font color='red'>bar</font> foo
+#### ⚙️ <font color='red'>&nbsp;GitHub Analytics</font> 
 
 <p align="center">
 <a href="https://github.com/sadullahmutlu">
