@@ -21,7 +21,6 @@
 <a href="https://instagram.com/sadullahmutluu"><img src="https://img.shields.io/badge/-@sadullahmutluu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-Stand by, a little :)
 
 **Çalışmanızın karşılığını mutlaka bir gün alırsınız.**
 
