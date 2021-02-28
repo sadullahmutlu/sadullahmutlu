@@ -3,7 +3,6 @@
 * 🔭 I’m currently working on **Data Science**
 * 🌱 I’m currently learning **Python** and **Machine Learning**
 
-
 <p align="center">
 <a href="https://github.com/sadullahmutlu">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -11,6 +10,15 @@
 </a>
 </p>
 
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://twitter.com/sadullahmutlu"><img src="https://img.shields.io/badge/SadullahMutlu-1da1f2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sadullahmutlu"><img src="https://img.shields.io/badge/Sadullah%20Mutlu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sadullahmutlu760@gmail.com"><img src="https://img.shields.io/badge/-sadullahmutlu760@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/sadullahmutluu"><img src="https://img.shields.io/badge/-@sadullahmutluu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+
+</p>
 
 Stand by, a little :)
 
