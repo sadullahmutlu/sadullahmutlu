@@ -6,7 +6,7 @@
 #### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=radical)
 
 #### 🤝🏻 &nbsp;Connect with Me
 
