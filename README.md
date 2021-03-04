@@ -4,8 +4,13 @@
 * 💻 I’m currently learning **Python** and **Machine Learning**
 
 #### ⚙️ &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadullahmutlu&theme=tokyonight&layout=compact)
+
+<p align="center">
+<a href="https://github.com/sadullahmutlu">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api username=sadullahmutlu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadullahmutlu&layout=compact&langs_count=8&theme=dark"/>
+</a>
+</p>
 
 #### 🤝🏻 &nbsp;Connect with Me
 
@@ -20,7 +25,6 @@
 
 **Çalışmanızın karşılığını mutlaka bir gün alırsınız.**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sadullahmutlu&repo=sadullahmutlu)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **sadullahmutlu/sadullahmutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
