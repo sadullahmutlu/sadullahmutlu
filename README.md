@@ -4,7 +4,7 @@
 * 💻 I’m currently learning **Python** and **Machine Learning**
 
 #### ⚙️ &nbsp;GitHub Analytics
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🤝🏻 &nbsp;Connect with Me
 
