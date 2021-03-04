@@ -5,6 +5,7 @@
 
 #### ⚙️ &nbsp;GitHub Analytics
 
+[ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radikal )
 
 #### 🤝🏻 &nbsp;Connect with Me
 
