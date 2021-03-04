@@ -6,7 +6,7 @@
 #### ⚙️**GitHub Analytics**
 
 <a href="https://github.com/sadullahmutlu">
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=blue-green&include_all_commits=true/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=blue-green&include_all_commits=true"/>
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadullahmutlu&layout=compact&theme=blue-green"/>
 </a>
 
