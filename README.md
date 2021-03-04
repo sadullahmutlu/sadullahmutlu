@@ -5,7 +5,16 @@
 
 #### ⚙️ &nbsp;GitHub Analytics
 
-[ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = Sadullahmutlu )] (https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadullahmutlu&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadullahmutlu&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
 
 #### 🤝🏻 &nbsp;Connect with Me
 
