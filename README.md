@@ -4,8 +4,8 @@
 * 💻 I’m currently learning **Python** and **Machine Learning**
 
 #### ⚙️ &nbsp;GitHub Analytics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadullahmutlu&theme=tokyonight&layout=compact)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=tokyonight)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadullahmutlu&theme=tokyonight&layout=compact)
 
 #### 🤝🏻 &nbsp;Connect with Me
 
