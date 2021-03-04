@@ -10,7 +10,7 @@
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadullahmutlu&layout=compact&theme=blue-green"/>
 </a>
 
-#### 🤝🏻**Connect with Me**
+#### 🤝🏻**Contact with Me**
 
 <p align="center">
 <a href="https://instagram.com/sadullahmutluu"><img src="https://img.shields.io/badge/-Sadullah Mutlu-6959cd?style=flat&logo=Instagram&logoColor=white"/></a>
