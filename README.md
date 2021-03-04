@@ -4,7 +4,7 @@
 * 💻 I’m currently learning **Python** and **Machine Learning**
 
 #### ⚙️ &nbsp;GitHub Analytics
-(https://github-readme-stats.vercel.app/api ? Username = anuraghazra & show_icons = true & theme = radikal )
+(https://github-readme-stats.vercel.app/api ? Username = sadullahmutlu & show_icons = true & theme = radikal )
 
 #### 🤝🏻 &nbsp;Connect with Me
 
