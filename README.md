@@ -21,7 +21,7 @@
 </p>
 
 
-*Çalışmanızın karşılığını mutlaka bir gün alırsınız
+**Çalışmanızın karşılığını mutlaka bir gün alırsınız**
 
 <!--
 **sadullahmutlu/sadullahmutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
