@@ -3,14 +3,14 @@
 * 🔭 I’m currently working on **Data Science**
 * 💻 I’m currently learning **Python** and **Machine Learning**
 
-#### ⚙️ &nbsp;GitHub Stats
+#### ⚙️ **GitHub Analytics**
 
 <a href="https://github.com/sadullahmutlu">
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sadullahmutlu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sadullahmutlu&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 
-#### 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 **Connect with Me**
 
 <p align="center">
 <a href="https://instagram.com/sadullahmutluu"><img src="https://img.shields.io/badge/-Sadullah Mutlu-6959cd?style=flat&logo=Instagram&logoColor=white"/></a>
@@ -21,7 +21,7 @@
 </p>
 
 
-**Çalışmanızın karşılığını mutlaka bir gün alırsınız.**
+*Çalışmanızın karşılığını mutlaka bir gün alırsınız
 
 <!--
 **sadullahmutlu/sadullahmutlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
