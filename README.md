@@ -5,8 +5,7 @@
 
 #### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-[! [ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = Sadullahmutlu )] (https://github.com/anuraghazra/github-readme-stats)
+[ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = Sadullahmutlu )] (https://github.com/anuraghazra/github-readme-stats)
 
 #### 🤝🏻 &nbsp;Connect with Me
 
